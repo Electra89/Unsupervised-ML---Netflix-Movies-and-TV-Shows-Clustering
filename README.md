@@ -12,10 +12,6 @@ Welcome to the Netflix Movies and TV Shows Clustering project repository. This p
 
 The Netflix dataset of movies and TV shows up to 2019, sourced from Flixable, a third-party Netflix search engine. The analysis aims to comprehend the content landscape across countries, assess Netflix's focus on TV shows versus movies in recent years, and cluster similar content based on text-based features. The dataset reflects a shift in Netflix's content strategy, revealing a substantial increase in TV shows and a significant decrease in movies since 2010, as reported by Flixable in 2018. The exploration seeks to uncover additional insights from this dataset.
 
-## Business Objective
-
-The business objective on Airbnb is to create a thriving online marketplace that connects travelers seeking accommodations with hosts who have available lodging. This platform aims to offer a wide range of lodging options to travelers, promote the utilization of spare or vacant properties, and facilitate seamless transactions between guests and hosts.
-
 ##  Project Summary
 
 ### Key Steps
